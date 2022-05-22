@@ -5,7 +5,6 @@ actor Developer
 Maintainer --> Maintainer: Einfügen der Rolleninformation\n und des Fragebogenschlüssels\n in [[https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_04/blob/main/team.config{Link zur Datei} team.config]]
 Developer --> Developer: Einfügen der Rolleninformation\n und des Fragebogenschlüssels\n in [[https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_04/blob/main/team.config{Link zur Datei} team.config]]
 == Projekt Initialisierung ==
-Maintainer --> Maintainer: Konfiguration [[https://docs.github.com/en/organizations/organizing-members-into-teams/managing-code-review-assignment-for-your-team{Review Konfiguration} Reviews]]
 Maintainer --> Maintainer: Anlegen [[https://guides.github.com/features/issues/{Mastering Issues} Issue]] "txt_to_md"
 Maintainer --> Developer:  Zuweisung Issue
 == Implementierung ==
