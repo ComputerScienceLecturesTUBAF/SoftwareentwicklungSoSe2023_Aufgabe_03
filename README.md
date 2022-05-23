@@ -24,7 +24,7 @@ Dabei nehmen Sie in Ihrem Team eine von zwei Rollen ein:
 
 SWE: 23.05-27.05.2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
-Einführung in SWE: 06.06.-17.06.2021 (KGB, BENG, VTC, MB)
+Einführung in SWE: 06.06.-17.06.2022 (KGB, BENG, VTC, MB)
 
 ## Aufgabenvariante
 
