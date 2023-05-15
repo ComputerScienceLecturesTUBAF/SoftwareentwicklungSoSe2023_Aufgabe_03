@@ -1,4 +1,4 @@
-# Softwareentwicklung SoSe2022 - Aufgabe 03
+# Softwareentwicklung SoSe2023 - Aufgabe 03
 
 Anhand einer Fingerübung sollen Sie die gemeinsame Arbeit in einem Projekt üben. Dazu finden Sie im Repository eine Datei `CSharp_vs_Python.txt`. Überführen Sie diese in ein neues Markdown-Dokument `CSharp_vs_Python.md`, das mit den entsprechenden Syntaxelementen die notwendige Strukturierung und Formatierung erfährt. Führen Sie zwei kleine Beispielprojekte ein , dass die Umsetzung __grundlegender__ objektorientierter Konzepte (Klassenstruktur, Vererbung) in den  Sprachen zeigt.
 
@@ -11,9 +11,9 @@ Dabei nehmen Sie in Ihrem Team eine von zwei Rollen ein:
 
 ## Bearbeitungszeit
 
-SWE: 23.05-27.05.2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
+SWE: 22.05-26.05.2023 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
-Einführung in SWE: 06.06.-17.06.2022 (KGB, BENG, VTC, MB)
+Einführung in SWE: 12.06.-23.06.2023 (KGB, BENG, VTC, MB)
 
 ## Aufgabe
 
