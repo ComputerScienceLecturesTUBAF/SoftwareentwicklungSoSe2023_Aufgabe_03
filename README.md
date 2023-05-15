@@ -1,6 +1,6 @@
 # Softwareentwicklung SoSe2022 - Aufgabe 03
 
-Anhand einer Fingerübung sollen Sie die gemeinsame Arbeit in einem Projekt üben. Dazu finden Sie im Repository eine Datei `CSharpBasics.txt`. Überführen Sie diese in ein neues Markdown-Dokument `CSharpBasics.md`, das mit den entsprechenden Syntaxelementen die notwendige Strukturierung und Formatierung erfährt. 
+Anhand einer Fingerübung sollen Sie die gemeinsame Arbeit in einem Projekt üben. Dazu finden Sie im Repository eine Datei `CSharp_vs_Python.txt`. Überführen Sie diese in ein neues Markdown-Dokument `CSharp_vs_Python.md`, das mit den entsprechenden Syntaxelementen die notwendige Strukturierung und Formatierung erfährt. Führen Sie zwei kleine Beispielprojekte ein , dass die Umsetzung __grundlegender__ objektorientierter Konzepte (Klassenstruktur, Vererbung) in den  Sprachen zeigt.
 
 Dabei nehmen Sie in Ihrem Team eine von zwei Rollen ein:
 
@@ -9,23 +9,12 @@ Dabei nehmen Sie in Ihrem Team eine von zwei Rollen ein:
 | Projekt Maintainer | ... koordiniert die Implementierung und die Kommunikation mit dem Kunden, ist insbesondere für das Setup der Repositories verantwortlich. Dabei übernimmte der Maintainer in unserem Szenario auch die Aufgabe des Reviewers für den entstandenen "Code". |
 | Developer | ... realisiert die eigentliche Implementierung in separaten branches, die unter der Verantwortung des Maintainers auf das Produktionssytem (hier der main branch) abgebildet werden. |
 
-> Für die systematische Untersuchung Ihrer anonymisierten Aktivitäten ist es wichtig, dass Sie zunächst in einer Datei [team.config](https://github.com/ComputerScienceLecturesTUBAF/SoftwareentwicklungSoSe2021_Aufgabe_04/blob/main/team.config) Ihre *Rolle und den Fragebogenschlüssel* hinterlegen. 
-> 
-> Zur Erinnerung, dieser setzte sich wie folgt zusammen:
-> 
->  | Feld | Schlüssel |
->  |------|-----------|
->  | 1 & 2 | _Die ersten zwei Buchstaben des Vornamens Ihrer Mutter (oder einer Person die für Sie einer Mutter am nächsten kommt)._ |
->  | 3 & 4 | _Die ersten zwei Buchstaben des Vornamens Ihres Vaters (oder einer Person die für Sie einem Vater am nächsten kommt)._  |
->  | 5 & 6 | _Den Tag Ihres Geburtsdatums (z.B. für das Datum 01.05.1990 tragen Sie bitte 01 ein)._|
->  | 7 | _Erster Buchstabe Ihres eigenen Vornamens (z.B. Emil = E)._|
-
 ## Bearbeitungszeit
 
 SWE: 23.05-27.05.2022 (Mm, BWM, ROB, BAI, BGIP, BBWL, BBL, MGIN)
 
 Einführung in SWE: 06.06.-17.06.2022 (KGB, BENG, VTC, MB)
 
-## Aufgabenvariante
+## Aufgabe
 
-> **An dieser Stelle wird gerade die Aufgabe für Sie generiert! Bitte in 15 Sekunden noch mal `F5` drücken**
+![](http://www.plantuml.com/plantuml/png/hLN1RXit4BthAwRf9IaYBThU3AY8OzUkORWndBI79aR0NOvsMNF9BMSermxyD_sCtl9Z7Iwn6qcGjpxa850S3cVclJV3VKMi0iVMpbJ5Fi25CexbXo4Ru1ZNQ7qd--KIVlUXn826ewjXkPnzyORv_AUDomTmXLM3GNvm7rEKbN66ZNUmbjyPKKHuXsrd5IEzX0_kP-DAP4O7c0AaL5RL2CQ1LWINmV-9Don537_XB0LKrf31yF_r73gBDJfu_xvXxkYWAEfeDDAYDjp4Sb7vjbYXuXYG2YFroVBfGX5ZCAxE5TD3Ng-luLbtnurt7zVqiQ96XUxP1tU2n3c9nW1lOycARWYUdxb6MNu99xvLd8jDY8-ynX8DTGOjHBfTl81T02Fv1m1_n5jnZaCjYOapuGzRT3moa4GpQyMuWNsA5RZmmg9F44UAXwHxl8iYAoUYTC7N0OcAualEyUOGOm-Ch4DMcU1rK4vwX3OkxFXlOfHhty-SPuHWwePdyDqOpc6K_8hH9Ekvxx9x4eB_PiWIO3exyK5aoCVA4hGwMOyDtKGYu_ETtnnZeAeng14kUwbXJGiuwhLE5rA_gfXWc1e3lBlhlFInDf83e8-nGRiqlqO7vAsTeTEGC4nmTEJRrh1SU7w5grJeFQYuohf_y-B9NFsmmzMRDvUG0S1cxn4CXndexk6-WlVNctho2jS6RwKL9_31s_Je86mCe_RLrYYYA_Akg8GqLVeWchbwVYl6UHxFkN9wtaLhvm7_aZrJKGNCRchh03wTfbctnecOOeUGxGzRk-lhHriVqlknya7dEVlQPOjVv2sRh8b6-ZRWOCgmidqJK2QSG8GxxLC_G3O9dgd9JoeFQXLmBXAY70Pyz0qI4hPO-5LLJOb4_GvTRZQBAvwzDim8iPMddpx_m_VML4q_UtMzMlI99Shu5gQ3NuoxZwlF_zROVo26jqYdWKQNFDBtX6KY0vhoneSWfp6ClVdacVXnPoREXr3zo9vWOp6CbHvgrV7m91ohG8pMIiLZsgc6WP4530uZ8mc6BDyKnOCaggnHu5fFX6vIoCCo-KMYhMwUQTppBY-NikcilvC1VM9GZJdmqAsJrqvHrYoh0B6e2AMGVH-bL-XqREr_)
