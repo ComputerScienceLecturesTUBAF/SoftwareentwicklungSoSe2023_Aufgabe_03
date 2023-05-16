@@ -1,12 +1,12 @@
 # Softwareentwicklung SoSe2023 - Aufgabe 03
 
-Anhand einer Fingerübung sollen Sie die gemeinsame Arbeit in einem Projekt üben. Dazu finden Sie im Repository eine Datei `CSharp_vs_Python.txt`. Überführen Sie diese in ein neues Markdown-Dokument `CSharp_vs_Python.md`, das mit den entsprechenden Syntaxelementen die notwendige Strukturierung und Formatierung erfährt. Führen Sie zwei kleine Beispielprojekte ein , dass die Umsetzung __grundlegender__ objektorientierter Konzepte (Klassenstruktur, Vererbung) in den  Sprachen zeigt.
+Anhand einer Fingerübung sollen Sie die gemeinsame Arbeit in einem Projekt üben. Dazu finden Sie im Repository eine Datei `CSharp_vs_Python.txt`. Überführen Sie diese in ein neues Markdown-Dokument `CSharp_vs_Python.md`, das mit den entsprechenden Syntaxelementen die notwendige Strukturierung und Formatierung erfährt. Fügen Sie zudem zwei kleine Beispielprojekte ein, die die Umsetzung __grundlegender__ objektorientierter Konzepte (Klassenstruktur, Vererbung) in den beiden Sprachen zeigen.
 
 Dabei nehmen Sie in Ihrem Team eine von zwei Rollen ein:
 
 | Rolle | Aufgabe |
 |-------|---------|
-| Projekt Maintainer | ... koordiniert die Implementierung und die Kommunikation mit dem Kunden, ist insbesondere für das Setup der Repositories verantwortlich. Dabei übernimmte der Maintainer in unserem Szenario auch die Aufgabe des Reviewers für den entstandenen "Code". |
+| Projekt Maintainer | ... koordiniert die Implementierung und die Kommunikation mit dem Kunden, ist insbesondere für das Setup der Repositories verantwortlich. Dabei übernimmt der Maintainer in unserem Szenario auch die Aufgabe des Reviewers für den entstandenen "Code". |
 | Developer | ... realisiert die eigentliche Implementierung in separaten branches, die unter der Verantwortung des Maintainers auf das Produktionssytem (hier der main branch) abgebildet werden. |
 
 ## Bearbeitungszeit
